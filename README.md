@@ -1,7 +1,22 @@
-# Tauri + React + Typescript
+# BitLauncher
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+## What's a BitLauncher?
 
-## Recommended IDE Setup
+### BitLauncher is a launcher for minecraft, created on memory safe language Rust with Tauri.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## Why BitLauncher?
+
+### As it has been said BitLauncher created on memory safe language Rust, in our launcher you won't find any problems, like with memory etc. Also it's free only, there is no any ad and things like that.
+
+## I wanna support you
+
+### If you wanna support as, you can donate some money, and get sponsor status in our launcher. Note: If you have donated and don't get sponsor status, it's normal, you need to wait some time and you'll get it.
+
+## Developers
+
+### Programming:
+* BadCoder
+
+### Design
+* BadCoder
+* Anonim
